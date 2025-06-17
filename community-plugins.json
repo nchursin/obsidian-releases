@@ -17457,4 +17457,11 @@
     "description": "Provides advanced word counting features for selected text across all view modes. Goes beyond basic word counting with customizable path exclusion, and more.",
     "repo": "banisterious/obsidian-custom-selected-word-count"
   }
+  {
+    "id": "obsidian-confluence-unofficial",
+    "name": "Obsidian Confluence Unofficial",
+    "author": "nchursin",
+    "description": "Obsidian Confulence Unofficial plugin to publish Confluence pages directly from Obsidian",
+    "repo": "nchursin/obsidian-confluence-unofficial"
+  }
 ]
